@@ -1,4 +1,4 @@
-<img width="2520" height="979" alt="image" src="https://github.com/user-attachments/assets/36a266d3-183f-467d-a6b8-19d71ba9c08e" /># TheaterActorEmployment
+TheaterActorEmployment
 WPF app "TheaterActorEmployment"
 
 АИС «Занятость актеров театра» — учебное WPF-приложение на языке C#, предназначенное для учета актеров, спектаклей, ролей и персональных контрактов.
